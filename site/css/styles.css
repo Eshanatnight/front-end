@@ -15,7 +15,7 @@ section{
 	background-color: gray;
 	position: relative;
 
-	margin-bottom: 15px;
+	margin-bottom: 27px;
 	
 	margin-left: auto;
 	margin-right:auto;
@@ -31,21 +31,34 @@ section>div{
 .text div{
 	margin-top: 50px;
     padding: 5px;
+    
 }
 
 h1{
 	text-align: center;
 	font-size: 49px;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	font-family: Helvetica;
 }
 .title{
-	background-color:  #5F9EA0;
+	
 	padding: 5px;
 	width: 100px;
 	text-align: center;
 	position: absolute;
 	right: 0;
 	top: 0;
+}
+.t1{
+	background-color: #5F9EA0
+
+}
+.t2{
+	background-color: #DEB887;
+}
+.t3{
+	background-color: #A52A2A;
 }
 
 
