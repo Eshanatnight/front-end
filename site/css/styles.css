@@ -37,8 +37,8 @@ section>div{
 h1{
 	text-align: center;
 	font-size: 49px;
-	margin-bottom: 30px;
-	margin-top: 30px;
+	margin-bottom: 27px;
+	margin-top: 27px;
 	font-family: Helvetica;
 }
 .title{
@@ -47,6 +47,7 @@ h1{
 	width: 100px;
 	text-align: center;
 	position: absolute;
+	border: 1px solid black;
 	right: 0;
 	top: 0;
 }
